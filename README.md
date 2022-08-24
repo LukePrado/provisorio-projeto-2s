@@ -1,10 +1,8 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+Desenvolvimento de uma Aplicação Interativa 
 
-`DISCIPLINA`
-
-`SEMESTRE`
+- Turma 07 - 2022/2
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
@@ -17,7 +15,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Orientador
 
-* Nome completo do professor 1
+* Luciana De Nardin
 
 ## Instruções de utilização
 
