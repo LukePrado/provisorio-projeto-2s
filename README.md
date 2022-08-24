@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# GUIA DE ESTUDO
 
 Desenvolvimento de uma Aplicação Interativa 
 
