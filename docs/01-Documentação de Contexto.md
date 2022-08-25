@@ -1,6 +1,6 @@
 # Introdução
 
-A falta de uma plataforma que ofereça o serviço de indicação de material de estudo confiavél e suguro pode gerar perda de tempo, insegurança e imprecisão de informações.
+A falta de uma plataforma que ofereça o serviço de indicação de material de estudo (biografia) confiavél e suguro pode gerar perda de tempo, insegurança e imprecisão de informações.
 
 O estudo realizado a partir de fontes confiaveis é essencial para o desenvolvimento e entendimento do aluno acerca da matéria estudada.
 
@@ -8,7 +8,7 @@ Isto posto é importante que exista uma plataforma onde os estudantes possam ter
 
 Em uma rapida consulta à internet verificamos que o mais famoso site de busca de informações de determinado assunto é o "Wikipedia", entretanto a enciclopédia online como é conhecida deve ser usada com bastante cautela, uma vez que é um portal colaborativo onde qualquer pessoa pode editá-la e, por isso, suas informações podem não condizer com a verdade.
 
-Dessa forma, em busca de oferecer ao usuario segurança e acertividade no material de estudo, a solução proposta pelo grupo visa fornecer ao usuario biografia sobre determinado assunto que seja de uma fonte  confiavél e segura.
+Dessa forma, em busca de oferecer ao usuario segurança e acertividade no material de estudo, a solução proposta pelo grupo visa fornecer ao usuario biografia sobre determinado assunto que seja de uma fonte confiavél e segura.
 
 ## Problema
 De acordo com o que foi proposto, o problema que se busca resolver com esse projeto é a falta de uma plataforma que unifique indicações de material para estudo de forma precisa, segura e confiavél. 
@@ -32,6 +32,8 @@ Fornecer mecanismo de busca por assunto para facilitar a navegação.
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
+
+
 
 Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
 
